@@ -23,5 +23,5 @@ This is my personal portfolio website showcasing my projects, skills, and backgr
 ## View Live
 
 For collaborations or questions:  
-Email: your.email@example.com  
-GitHub: [yourusername](https://github.com/yourusername)
+Email: faymwangi8930@gmail.com  
+GitHub: FaithM15960
