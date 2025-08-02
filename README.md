@@ -21,6 +21,7 @@ This is my personal portfolio website showcasing my projects, skills, and backgr
 - Responsive design principles
 
 ## View Live
+https://github.com/FaithM15960/My_Portfolio.git
 
 For collaborations or questions:  
 Email: faymwangi8930@gmail.com  
